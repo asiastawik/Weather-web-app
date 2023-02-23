@@ -24,6 +24,6 @@ Type the city and click "WYŚLIJ" button. Then you will get info about the weath
 Project is: _no longer being worked on_.
 
 ## Acknowledgements
-Program is based on book _JavaScript, HTML, CSS, PHP, WordPress - Tworzenie stron i aplikacji webowych, kurs programowania od podstaw_ by Krzysztof Dziedzic, Komputer Świat.
-Icons from _https://www.flaticon.com/_
-CSS code from _https://codepen.io/tutsplus/pen/gObLaEP_
+- Program is based on book _JavaScript, HTML, CSS, PHP, WordPress - Tworzenie stron i aplikacji webowych, kurs programowania od podstaw_ by Krzysztof Dziedzic, Komputer Świat.
+- Icons from _https://www.flaticon.com/_.
+- CSS code from _https://codepen.io/tutsplus/pen/gObLaEP_.
