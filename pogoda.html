@@ -1,0 +1,29 @@
+<DOCTYPE html>
+<html lang="pl-PL">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IF-edge">
+	<meta name="viewport" content ="width=device-width, initial-scale=1.0">
+	<title>Aplikacja pogodowa</title>
+	<link rel="stylesheet" href="pogoda-style.css">
+</head>
+<body>
+	<section class="top-banner">
+		<div class="container">
+			<h1 class="heading">Aplikacja pogodowa</h1>
+			<form>
+				<input type="text" placeholder="Podaj nazwę miejscowości" autofocus>
+				<button type="submit">WYŚLIJ</button>
+				<span class="msg"></span>
+			</form>
+		</div>
+	</section>
+	<section class="ajax-section">
+		<div class="container">
+			<ul class="cities"></ul>
+		</div>
+	</section>
+	<script src="pogoda.js"></script>
+</body>
+</html>
+	
